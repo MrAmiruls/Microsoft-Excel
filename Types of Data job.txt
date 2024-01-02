@@ -1,0 +1,64 @@
+Data Management consist of 3 main type:
+-Data Architect
+-Data Engineer
+-Data Analyst
+
+Data Architect
+Data Architect is people who leverage(use (something) to maximum advantage) their computer science and design skills 
+- to review and analyz the data infrastructure of an organization, 
+- plan future databases, and implement solutions to store 
+- and manage data for organizations and their users. 
+
+How to become Data Architect?
+Take Google Data Analytics or 
+IBM Data Analyst Professional Certificate.
+
+Skills Data Architect
+- Data mining to uncover patterns, anomalies, and correlations in large data sets
+
+- Data management to efficiently and cost-effectively collect, store, and use data
+
+- Coding languages like Python and Java to develop applications for data analysis
+
+- Machine learning to build scalable systems for handling big data
+
+- Structured query language (SQL) to manipulate data
+
+- Data modeling tools like ERWin or Visio to visualize metadata and database schema
+
+
+Data Engineer
+Data Engineer responsible for designing, maintaining, and optimizing data infrastructure for data collection, management, transformation, and access. 
+They are in charge of creating pipelines that convert raw data into usable formats for data scientists and other data consumers to utilize.
+
+Skills for Data Engineer
+-> Database (SQL and NoSQL): An essential skill for data engineers is learning how databases work and how to write queries to manipulate and retrieve data. 
+This free database systems course by FREECODECAMP.com
+
+-> Data processing techniques and tools: LinkedIn Learning provides fantastic resources to learn Apache Kafka – a popular tool for data processing.
+
+-> Programming language: such as PYTHON and SCALA are popular with data engineers. 
+The complete Python BOOTCAMP on UDEMY is a popular resource for getting started with Python.
+
+-> Cloud computing: using popular cloud providers such as AMAZON CLOUD SERVICES, GOOGLE CLOUD, and AZURE will help you stand out as a data engineer. 
+
+Data Analyst
+Data Analyst collects, cleans, and interprets data sets in order to answer a question or solve a problem.
+
+Skills for Data Analyst
+- Identify the data you want to analyze
+- Collect the data
+- Clean the data in preparation for analysis
+- Analyze the data
+- Interpret the results of the analysis
+
+Tools for Data Analyst
+- Microsoft Excel
+- Google Sheets
+- SQL
+- Tableau
+- R or Python
+- SAS
+- Microsoft Power BI
+- Jupyter Notebooks
+
