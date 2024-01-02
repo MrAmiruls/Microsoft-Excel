@@ -1,0 +1,18 @@
+2 types of Referencing
+
+- RELATIVE REFERENCES -
+= the reference is relative to the location of the cell.
+Means that, When you copy a formula that contains a relative cell reference, that reference in the formula will change
+For example, =B1+B2 will change the formula if you drag it to the next cell to become =B2+B3
+
+- ABSOLUTE REFERENCES - ($) - dollar sign
+= the reference is remain the same as the first cell
+Means that, when you tried to copy paste the data to the next cell, the data still comeout the same amount.
+For example, =$A$4+$A$5, if A4=7 & A5=8, the answer will be 15
+If you drag it to the next cell, the answer still the same which is 15
+
+- MIXED REFERENCES
+= the reference will remain and will change
+Means that, the data contain both, RELATIVE AND ABSOLUTE references
+For example, =$A$4+$A5, if A4=7 & A5=8, the answer will be 15, next cell add up 1 number.
+$A$4 no change, $A5 will change.
