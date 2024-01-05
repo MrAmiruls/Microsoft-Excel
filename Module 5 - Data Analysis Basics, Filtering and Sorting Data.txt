@@ -1,0 +1,36 @@
+Module 5 - Data Analysis Basics, Filtering and Sorting Data
+
+After completing this module, you will be able to:
+Describe the fundamentals of analyzing data using a spreadsheet.
+List some of the most useful functions for a data analyst.
+Filter and sort data in a worksheet.
+Use IF, IFS, COUNTIF, and SUMIF functions for data analysis.
+Use nested IF statements.
+Use the VLOOKUP and HLOOKUP functions.
+
+Advantages to formatting your data as a table: 
+-) Automatic calculations even when filtering 
+-) Column headings never disappear 
+-) Banded rows to make reading easier 
+-) Tables will automatically expand when adding new rows
+
+
+The most basic way of shaping your data is to sort and filter it:
+-) Sorting data helps you to organize it by a specified criteria, such as numerically, alphabetically, or chronologically. 
+-) Filtering our data makes it easier to control what data is displayed and what is hidden, based on filtered fields.
+
+
+Functions in Excel are arranged into multiple categories;
+1) mathematical, 
+2) statistical,
+3) logical, 
+4) financial, 
+5) date and time-based. 
+
+Common functions for a data analyst
+1) IF, 
+2) IFS,
+3) COUNTIF, 
+4) SUMIF, 
+5) VLOOKUP, 
+6) HLOOKUP 
