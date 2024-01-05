@@ -1,0 +1,21 @@
+After completing this module, you will be able to:
+
+Explain the importance of data quality.
+List the Five Traits of Data Quality.
+Import file data into Excel.
+Describe the fundamentals of data privacy.
+
+The Five Traits of Data Quality: 
+1) Accuracy 
+2) Completeness 
+3) Reliability 
+4) Relevance 
+5) Timeliness 
+
+The Three Fundamentals of Data Privacy: 
+1) Confidentiality 
+2) Collection and Use 
+3) Compliance 
+
+What feature do you use to import data from a text file?
+Text Import Wizard
