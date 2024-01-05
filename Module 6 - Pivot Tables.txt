@@ -31,3 +31,13 @@ Filters and Slicers:
 which makes it easier to perform quick filtering of your pivot table data. 
 = Timelines are another type of filter tool that enable you to filter specifically on date-related data in your pivot table. 
 This is a much quicker and more effective way of dynamically filtering by date, rather than having to create and adjust filters on your date columns. 
+
+
+Before creating a pivot table, how should you format your data?
+> As a table
+
+How can you add more filters to the pivot table?
+> drag a field to the Filters area of the PivotTable Fields pane
+
+What are slicers?
+> on-screen graphical filter objects
