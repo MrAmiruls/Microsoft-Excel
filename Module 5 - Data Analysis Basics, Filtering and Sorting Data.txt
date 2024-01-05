@@ -34,3 +34,12 @@ Common functions for a data analyst
 4) SUMIF, 
 5) VLOOKUP, 
 6) HLOOKUP 
+
+After filtering a column and getting the results, in which two ways can you return to showing all the data in a column?
+1) clear the filter
+2) turn filtering off
+
+Which of the following are valid sorting orders you can choose when adding sorting levels to your data?
+- Oldest to Newest
+- Smallest to Largest
+- Z to A 
