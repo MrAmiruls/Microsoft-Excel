@@ -1,0 +1,26 @@
+After completing this module, you will be able to:
+
+Discuss different reasons that data can have issues, and take the steps to clean it up.
+Remove duplicate and inaccurate data, and empty rows.
+Handle inconsistencies in data.
+Manipulate and standardize data using the Flash Fill and Text to Columns features in Excel.
+Change the case of text, change date formatting, and trim whitespace.
+
+There are several other types of data inconsistency that you may need to resolve, in order to properly clean your data:  
+- Change the case of text
+- Fix date formatting errors
+- Trim whitepace from your data
+
+Which of the following tasks can Flash Fill do?
+- Combine two columns of data into one
+- Split one column of data into two   
+
+What is one of the functions you can use to change the text case in your data?
+LOWER 
+UPPER
+
+What is the first thing you should do when checking spelling errors in Excel?
+- Select the data you want to check for spelling
+
+what's one of the easiest common errors or inconsistencies to fix when importing data?
+- Spelling mistakes
