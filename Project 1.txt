@@ -1,0 +1,35 @@
+Introduction to Final Project - Part 1
+
+Now that you are equipped with the skills to clean and prepare data using Excel, you will have the opportunity to practice and apply your skills on a real world data set. 
+
+In this scenario, you are a Junior Data Analyst who has recently joined a growing company that markets classic and collector cars, motorcycles, and other vehicles to customers around the world. You have been tasked with cleaning data that has been imported from the sales department. The data is in comma-separated value (CSV) format and needs to be cleaned before you begin your analysis. In Part 2, you will be tasked with running an analysis of the sales data using pivot tables.
+
+
+Grading Criteria
+
+After completing both Project - Part 1 and Project - Part 2, you will complete a Peer-graded Final Assignment. Your grade will be based on completing the following tasks: 
+
+In addition to the tasks below, you are required to submit the following URL:
+
+- Excel file named sales_data_sample_PART1.XLSX for Part 1 of the final assignment.
+
+
+Part 1: 
+
+Task 1: Save the CSV file saved as an XLSX file?
+
+Task 2: Widen all columns so that all the data is visible 
+
+Task 3: Remove all the empty rows
+
+Task 4: Remove duplicated records
+
+Task 5: Sort column A
+
+Task 6: Format the numbers
+
+Task 7: Remove all double-spaces from the data
+
+Task 8: Combine the two columns into a single column
+
+Task 9: Save the Workbook 
