@@ -1,0 +1,16 @@
+Introduction to Final Project - Part 2
+Now that you are equipped with the skills to take clean and prepared data and create pivot tables, you will have the opportunity to practice and apply your skills on a data set. 
+
+Grading Criteria
+After completing both Projects, Part 1 and Part 2, you will complete a Peer-graded Final Assignment. Your grade will be based on completing the following tasks. 
+
+In addition to the tasks below, you are required to submit the following URL:
+- Excel file named sales_data_sample_PART2.XLSX for Part 2 of the final assignment.
+
+Part 2: 
+Task 10: Is the Format as Table option applied correctly?
+Task 11: Are the five correct AutoSum values calculated correctly?
+Task 12: Is the pivot table created correctly?
+Task 13: Is the pivot table data sorted correctly?
+Task 14: Has the pivot table been created two more times?  
+Task 15: Has the workbook been saved correctly?
