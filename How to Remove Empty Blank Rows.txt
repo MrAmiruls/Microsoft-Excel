@@ -1,0 +1,14 @@
+1) Click the Home tab in the top menu bar of Excel. 
+2) Click Find & Select on the right side.
+3) A pop-up box will appear. Select Blanks, and then hit OK.
+Then Excel will then highlight all of the blank cells.
+4) Once all the blank rows are highlighted, 
+go to the Home tab and locate the Delete button on the right-hand side. 
+5) Click the down arrow next to the Delete button and 
+select Delete Sheet Rows to remove the blank rows.
+
+1) CTRL + SHIFT + END to select all data
+2) click Data tab, click Filter,
+3) click drop down menu on header data
+4) Unselect all, then select Blanks
+5) Delete the empty rows
